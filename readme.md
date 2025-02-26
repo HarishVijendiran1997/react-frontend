@@ -1,1 +1,3 @@
-#Beginning of React js practice
+# Beginning of the react js with vite bundler
+
+- practicing react js
